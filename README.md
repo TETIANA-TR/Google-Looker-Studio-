@@ -1,5 +1,6 @@
 # Google-Looker-Studio-
 Introduction to Google Looker Studio
+https://lookerstudio.google.com/reporting/fdddc53c-02d7-4230-a880-9f1b367bc89a
 1. Created fields in the report:
 Ad Spend Amount
 CPC
